@@ -12,7 +12,7 @@
 - See [`CITATIONS.md`](./CITATIONS.md) for all dataset sources and citation details.
 
 ## Main Project Repository
-- [LoRA-Fine-Tuning-of-BanglaSenti-on-Bangla-BERT-Base-Using-Google-TPUs](https://github.com/niloydebbarma-code/LoRA-Fine-Tuning-of-BanglaSenti-on-Bangla-BERT-Base-Using-Google-TPUs)
+- [LoRA Fine-Tuning of BanglaSenti on XLM-RoBERTa-Base Using Google TPUs](https://github.com/niloydebbarma-code/LoRA-Fine-Tuning-of-BanglaSenti-on-Bangla-BERT-Base-Using-Google-TPUs)
 
 ## Data Preview
 
